@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/zll/workspace/CrawSina/lib/htmllexer.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/zll/workspace/CrawSina/lib/htmlparser.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/zll/workspace/CrawSina/lib/httpclient-4.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/zll/workspace/CrawSina/lib/httpcore-4.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/zll/workspace/CrawSina/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/zll/workspace/CrawSina/lib/json-lib-2.4-jdk15-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/zll/workspace/CrawSina/lib/mysql-jdbc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
